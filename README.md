@@ -26,7 +26,7 @@
  ex) 이 봇은 **jomin398**의 PIM 001.js 소스를 인용 하였습니다.<br>
 ***
 ### 메인 실행 프로그램들
->> null
+>> a.e js
 ***
 ### Module Lists
 >> null
